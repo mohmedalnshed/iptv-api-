@@ -2,26 +2,51 @@
   "channels": [
     {
       "name": "Al Jazeera",
-      "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+      "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8 ",
       "category": "News",
       "logo": "https://i.ibb.co/884RcMF/aljazera.png "
     },
     {
-  "channels": [
-    {
       "name": "Al Jazeera Mubasher",
-      "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+      "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8 ",
       "category": "News",
-      "logo": "https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg"
+      "logo": "https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg "
     },
     {
       "name": "BBC Live",
-      "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8 ",
+      "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn :bbc:pips:service:bbc_arabic_tv/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8",
       "category": "News",
       "logo": "https://i.ibb.co/yRc4rDX/bbcar.png "
     },
     {
-      "name": "al-arabiyeh",
+      "name": "Al Arabiya",
+      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8 ",
+      "category": "News",
+      "logo": "https://example.com/logos/artcinema.png "
+    }
+  ]
+}{
+  "channels": [
+    {
+      "name": "Al Jazeera",
+      "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8 ",
+      "category": "News",
+      "logo": "https://i.ibb.co/884RcMF/aljazera.png "
+    },
+    {
+      "name": "Al Jazeera Mubasher",
+      "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8 ",
+      "category": "News",
+      "logo": "https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg "
+    },
+    {
+      "name": "BBC Live",
+      "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn :bbc:pips:service:bbc_arabic_tv/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8",
+      "category": "News",
+      "logo": "https://i.ibb.co/yRc4rDX/bbcar.png "
+    },
+    {
+      "name": "Al Arabiya",
       "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8 ",
       "category": "News",
       "logo": "https://example.com/logos/artcinema.png "
